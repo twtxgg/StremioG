@@ -2,6 +2,7 @@
   "streams": [
     {
       "availability": 1,
-      "tt0051744": { name: "House on Haunted Hill", type: "movie", infoHash": "d61074cad53fc1a63630413288536024a7fa4ff5"
+      name: "House on Haunted Hill", type: "movie","infoHash": "d61074cad53fc1a63630413288536024a7fa4ff5"
     }
+  ]
 }
