@@ -1,13 +1,13 @@
 {
   "streams": [
     {
-      "infoHash": "d61074cad53fc1a63630413288536024a7fa4ff5", "title": "Baki Hanma vs Kengan Ashura1)", "fileIdx": 0
+      "infoHash": "d61074cad53fc1a63630413288536024a7fa4ff5",
+      "title": "Baki Hanma vs Kengan Ashura2)",
+      "fileIdx": 0
     },
     {
-      "url": "http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4", "title": "1080p (HTTP streams)"
+      "url": "http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4",
+      "title": "1080p (HTTP streams)"
     }
-  ],
-  {
-  "tt0032138": { infoHash: "24c8802e2624e17d46cd555f364debd949f2c81e", fileIdx: 0 }
-}
+  ]
 }
