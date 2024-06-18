@@ -1,4 +1,4 @@
-var STREAMS = {
+STREAMS = {
   movie: {
     "tt0032138": [
       { title: "Torrent", infoHash: "24c8802e2624e17d46cd555f364debd949f2c81e", fileIdx: 0 }
