@@ -7,5 +7,5 @@
       "url": "http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4", "title": "1080p (HTTP streams)"
     }
   ],
-  "tt0032138": { title: "Torrent", infoHash: "24c8802e2624e17d46cd555f364debd949f2c81e", fileIdx: 0 }
+  "tt0032138": { infoHash: "24c8802e2624e17d46cd555f364debd949f2c81e", fileIdx: 0 }
 }
