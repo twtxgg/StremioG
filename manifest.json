@@ -1,0 +1,15 @@
+{
+  "id": "com.stremio.nowexample",
+  "version": "0.0.1",
+  "name": "teste",
+  "description": "teste addon",
+  "resources": ["catalog", "meta", "stream"],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "BigBuckBunnyCatalog",
+      "name": "Big Buck Bunny Catalog"
+    }
+  ]
+}
