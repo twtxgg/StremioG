@@ -8,7 +8,7 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "tt",
+      "id": "BigBuckBunnyCatalog",
       "name": "Big Buck Bunny Catalog"
     }
   ]
