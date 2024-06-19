@@ -1,6 +1,6 @@
 {
   "id": "com.stremio.nowexample",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "name": "Play",
   "description": "teste addon",
   "resources": ["catalog", "stream"],
