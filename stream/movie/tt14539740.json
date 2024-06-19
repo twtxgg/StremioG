@@ -2,13 +2,18 @@
   "streams": [
     {
       "infoHash": "8013b5acacae620107ef36ea00ebb6987a5ab6c2",
-      "title": "(1080p Torrent Godzilla e Kong: O Novo Império)",
+      "title": "(WEB-DL 1080p Dual Áudio 5.1/2.0 (EAC3/AAC)(3.38 GB))",
       "fileIdx": 0
     },
     {
-      "infoHash": "8013b5acacae620107ef36ea00ebb6987a5ab6c2",
-      "title": "teste 1090",
+      "infoHash": "3d1e3019c0d04a482cc5015eb7658b9e9056f2b8",
+      "title": "(WEB-DL 1080p FULL HD Dual Áudio 5.1 (8.47 GB))",
       "fileIdx": 0
-    }
+    },
+    {
+      "infoHash": "0c241986773a9cca12054fee5e1d220c7609b318",
+      "title": "(WEB-DL 2160p 4K HDR FULL Dual Áudio 5.1 (17.02 GB))",
+      "fileIdx": 0
+    },
   ]
 }
