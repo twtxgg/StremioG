@@ -2,7 +2,7 @@
   "id": "com.stremio.nowexample",
   "version": "0.0.1",
   "name": "Play",
-  "description": "teste addon",
+  "description": "teste addong",
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
   "catalogs": [
