@@ -4,12 +4,17 @@
   "name": "Play",
   "description": "Addon de Filmes e Series",
   "resources": ["catalog", "stream"],
-  "types": ["movie"],
+  "types": ["movie", "series"],
   "catalogs": [
     {
       "type": "movie",
       "id": "Alugados",
       "name": "Alugados"
+    },
+    {
+      "type": "series",
+      "id": "Series",
+      "name": "Series"
     }
   ]
 }
