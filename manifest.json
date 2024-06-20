@@ -4,7 +4,7 @@
   "name": "Play",
   "description": "Addon de Filmes e Series",
   "resources": ["catalog", "stream"],
-  "types": ["movie", "series"],
+  "types": ["movie"],
   "catalogs": [
     {
       "type": "movie",
