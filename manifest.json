@@ -1,6 +1,6 @@
 {
   "id": "com.stremio.nowexample",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "name": "Play",
   "description": "Addon de Filmes e Series",
   "resources": ["catalog", "stream"],
