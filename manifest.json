@@ -10,11 +10,6 @@
       "type": "movie",
       "id": "Alugados",
       "name": "Alugados"
-    },
-    {
-      "type": "series",
-      "id": "Series",
-      "name": "Series"
     }
   ]
 }
