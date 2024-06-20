@@ -13,8 +13,8 @@
     },
     {
       "type": "series",
-      "id": "Alugados",
-      "name": "Alugados"
+      "id": "Series",
+      "name": "Series"
     }
   ]
 }
