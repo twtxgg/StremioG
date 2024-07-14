@@ -2,13 +2,11 @@
   "streams": [
     {
       "availability": 1,
-      "url": "https://cdn01-s1.mywallpaper-cdn-4k.com/stream/A/atri-my-dear-moments/01.mp4/index.m3u8",
-      "title": "Donghua1"
+      "url": "https://cdn01-s1.mywallpaper-cdn-4k.com/stream/A/atri-my-dear-moments/01.mp4/index.m3u8"
     },
     {
       "availability": 1,
-      "url": "https://cdn01-s1.mywallpaper-cdn-4k.com/stream/S/shoushimin-series/02.mp4/index.m3u8",
-      "title": "Donghua2"
+      "url": "https://cdn01-s1.mywallpaper-cdn-4k.com/stream/S/shoushimin-series/02.mp4/index.m3u8"
     }
   ]
 }
