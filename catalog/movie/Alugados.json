@@ -23,16 +23,6 @@
     "name": "Godzilla e Kong: O Novo Império",
     "poster": "https://m.media-amazon.com/images/M/MV5BYjNmYmM2YzAtN2ZmOC00N2FiLWFjZGMtMDYwZDZlNTE3N2I4XkEyXkFqcGdeQXVyMTY4MjE1MDA@._V1_FMjpg_UX1000_.jpg",
     "type": "movie"
-    },
-    {
-      "id": "BigBuckBunny",
-       "name": "Big Buck Bunny",
-        "year": 2008,
-        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVEFQvFMMsg4e6yb03xOfVsDz4o.jpg",
-        "posterShape": "regular",
-        "banner": "https://image.tmdb.org/t/p/original/aHLST0g8sOE1ixCxRDgM35SKwwp.jpg",
-        "isFree": true,
-        "type": "movie"
     }
   ]
 }
