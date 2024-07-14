@@ -25,10 +25,14 @@
     "type": "movie"
     },
     {
-      "id": "donghua",
-      "type": "movie",
-      "name": "Donghua2",
-      "poster": "https://i1.wp.com/image.tmdb.org/t/p/original/a9bJPlezCXF6u0siDxf7cZaSXaJ.jpg"
+      "id": "BigBuckBunny",
+       "name": "Big Buck Bunny",
+        "year": 2008,
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVEFQvFMMsg4e6yb03xOfVsDz4o.jpg",
+        "posterShape": "regular",
+        "banner": "https://image.tmdb.org/t/p/original/aHLST0g8sOE1ixCxRDgM35SKwwp.jpg",
+        "isFree": true,
+        "type": "movie"
     }
   ]
 }
