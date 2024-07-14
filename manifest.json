@@ -1,6 +1,6 @@
 {
   "id": "com.stremio.stremiog",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "name": "Play",
   "description": "Addon de Filmes e Series",
   "resources": ["catalog", "stream"],
